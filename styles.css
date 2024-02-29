@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+div {
+	width: 1100px;
+	background-color: #cbd6cb;
+	padding: 20px;
+}
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+td, th {
+	border: 3px solid #7d837e;
+	padding: 3px;
+	text-align: center;
+	align-content: center;
+}
